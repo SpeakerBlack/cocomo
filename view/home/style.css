@@ -1,0 +1,10 @@
+/*LOCAL*/
+.row{
+	width: 100%;
+	padding-left: 10px;
+	padding-top: 10px;
+}
+address{
+	border-bottom: 1px solid black;
+	padding-left: 15px;
+}
