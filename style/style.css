@@ -1,0 +1,12 @@
+/*GLOBAL*/
+.separator{
+	border-right: 1px solid black;
+	display: inline-block;
+	height: 20px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: -5px;
+}
+.pointer{
+	cursor: pointer;
+}
